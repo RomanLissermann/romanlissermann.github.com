@@ -1621,3 +1621,10 @@ code {
   p, h2, h3 { orphans: 3; widows: 3; }
   h2, h3 { page-break-after: avoid; }
 }
+
+.break { 
+    background: #FFFFFF;
+    height: 1px;
+    margin: 2px 0 2px 0;
+    width: 100%;
+}
